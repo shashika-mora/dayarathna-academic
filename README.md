@@ -6,8 +6,8 @@ Academic curriculum documentation, systems coursework, and study records for Sha
 
 This repository documents undergraduate studies in the Department of Computer Science & Engineering at the University of Moratuwa, Sri Lanka.
 
-- **Current Status**: Active undergraduate coursework (Class of 2027). Core modules in systems architecture, operating systems, algorithms, and databases.
-- **Academic Integrity**: This repository indexes open-source lab implementations (e.g. `WCSS-nano-processor/nano-processor`) and conceptual notes. Confidential exams, grading keys, and proprietary university materials are excluded.
+- **Current Status**: Current CSE undergraduate (Intake 24, Semester 3 in 2026). Currently studying computer architecture, operating systems, data communications, database systems, and applied mathematics.
+- **Featured Coursework**: Links open-source lab implementations (such as the 8-bit Nano Processor microarchitecture). Additional module materials will be added as coursework becomes available for public sharing.
 
 ## Architecture
 
